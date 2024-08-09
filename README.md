@@ -1,2 +1,2 @@
-# UrsinhosSemCalçasEmChamas
-onde a gente vai criar as paradinhas do curso
+Trabalho do 1° semestre 
+Um pouco sobre git e github
